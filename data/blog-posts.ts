@@ -11,7 +11,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
-  {
+ /* {
     id: "1",
     title: "Building Responsive UIs with Tailwind CSS",
     slug: "building-responsive-uis-with-tailwind-css",
@@ -176,5 +176,5 @@ Next.js 13 brings significant improvements to the framework, making it even more
     author: "Rhythm Aggarwal",
     tags: ["Next.js", "React", "Web Development"],
     coverImage: "/placeholder.svg?height=400&width=600",
-  },
+  },*/
 ]

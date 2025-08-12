@@ -18,8 +18,7 @@ export default function BlogPage() {
           <div className="flex items-center mb-8">
             <FileText className="mr-3 text-emerald-600 dark:text-emerald-400" />
             <h1 className="text-2xl font-bold">
-              <span className="syntax-keyword">async function</span>{" "}
-              <span className="text-emerald-600 dark:text-emerald-400">blog</span>
+              <span className="syntax-keyword">blog</span>{" "}
               <span className="text-zinc-800 dark:text-zinc-300">()</span>
             </h1>
           </div>
@@ -28,6 +27,7 @@ export default function BlogPage() {
             <p className="text-zinc-700 dark:text-zinc-300 mb-6">
               Welcome to my blog where I share my thoughts, experiences, and tutorials on web development, mobile apps,
               and more.
+              Stay tuned for in-depth content on:
             </p>
           </div>
 
