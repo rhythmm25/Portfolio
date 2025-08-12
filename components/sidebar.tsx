@@ -88,8 +88,8 @@ export function Sidebar() {
   ]
 
   const socialLinks = [
-    { name: "GitHub", href: "https://github.com", icon: Github },
-    { name: "LinkedIn", href: "https://linkedin.com", icon: Linkedin },
+    { name: "GitHub", href: "https://github.com/rhythmm25", icon: Github },
+    { name: "LinkedIn", href: "https://www.linkedin.com/in/25-rhythm-aggarwal/", icon: Linkedin },
     { name: "Twitter", href: "https://twitter.com", icon: Twitter },
   ]
 
