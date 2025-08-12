@@ -89,8 +89,8 @@ export function Sidebar() {
 
   const socialLinks = [
     { name: "GitHub", href: "https://github.com/rhythmm25", icon: Github },
-    { name: "LinkedIn", href: "https://www.linkedin.com/in/25-rhythm-aggarwal/", icon: Linkedin },
-    { name: "Twitter", href: "https://twitter.com", icon: Twitter },
+    { name: "LinkedIn", href: "https://www.linkedin.com/in/25-rhythm-aggarwal", icon: Linkedin },
+    { name: "Twitter", href: "https://x.com/rhythmm25", icon: Twitter },
   ]
 
   // Overlay for mobile sidebar
