@@ -1,7 +1,7 @@
 import { blogPosts } from "@/data/blog-posts"
 import BlogList from "@/components/blog-list"
 import { Sidebar } from "@/components/sidebar"
-import { FileText } from "lucide-react"
+import { FileText, Code } from "lucide-react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -27,8 +27,9 @@ export default function BlogPage() {
             <p className="text-zinc-700 dark:text-zinc-300 mb-6">
               Welcome to my blog where I share my thoughts, experiences, and tutorials on web development, mobile apps,
               and more.
-              Stay tuned for in-depth content on:
-            </p>
+              
+              <p className="text-zinc-700 dark:text-zinc-300 mb-6">
+              Stay tuned for in-depth content<Code className="mr-2 text-emerald-600 dark:text-emerald-400" /></p></p>
           </div>
 
           <BlogList posts={blogPosts} />
