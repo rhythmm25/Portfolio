@@ -83,7 +83,7 @@ export default function Hero() {
         <motion.div className="flex justify-center order-1 md:order-2" variants={item}>
           <div className="dev-photo-frame rounded-lg w-64 h-64 md:w-80 md:h-80">
             <img
-              src="/ghibli.jpg?height=320&width=320"
+              src="/ghibli.png?height=320&width=320"
               alt="Rhythm Aggarwal"
               className="w-full h-full object-cover"
             />
