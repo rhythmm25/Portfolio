@@ -114,8 +114,8 @@ export default function Hero() {
         </Button>
 
         <a
-          href="/Resume.pdf"
-          download="RhythmCv.pdf"
+          href="/RhythmCv.pdf"
+          download="Rhythm_Resume.pdf"
           className="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-emerald-600 dark:bg-emerald-600 text-white hover:bg-emerald-700 dark:hover:bg-emerald-700 h-11 px-8 w-full sm:w-auto"
           aria-label="Download Resume"
         >
